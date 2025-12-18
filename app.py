@@ -59,8 +59,8 @@ def load_data():
 df = load_data()
 
 # ======================= TITLE =======================
-st.title("🚨 US Opioid Overdose Death Analysis")
-st.caption("State-Level Trends and Outlier Detection")
+st.title("🚨 US Opioid & Sedative Overdose Death Analysis")
+st.caption("State-Level Trends and Outlier Detection on Drug Overdose/Death")
 st.markdown("---")
 
 # ======================= SIDEBAR FILTERS =======================
