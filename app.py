@@ -5,7 +5,7 @@ import re
 
 # ======================= PAGE CONFIG =======================
 st.set_page_config(
-    page_title="Drug Overdose Death Analysis",
+    page_title="US Opioid Overdose Death Analysis",
     layout="wide"
 )
 
