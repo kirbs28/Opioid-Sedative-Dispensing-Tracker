@@ -59,7 +59,7 @@ def load_data():
 df = load_data()
 
 # ======================= TITLE =======================
-st.title("🚨 Drug Overdose Death Analysis")
+st.title("🚨 US Opioid Overdose Death Analysis")
 st.caption("State-Level Trends and Outlier Detection")
 st.markdown("---")
 
